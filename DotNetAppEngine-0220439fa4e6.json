@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "august-strata-270720",
+  "private_key_id": "0220439fa4e6751c9d62b4bece6086c691fb2532",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCqQYh1YXUDVMo2\nFwRTo7m665X2+u/aHuc4Vwa/yQ4fostrb0K0DG8d/+Ek3lL+cs1ATTSjTQ766TVO\nW3D5cjDzkfy9MSa5VLyhscriM8rZ6CAyo3fi9DpXe7dgK7xqUPgSg4ooLAq+02cy\nS1MPZG4tNFWmNRkOHb7AsLawTR5F/s2uEF9aVzVYUZbVOwj9u+YRejqZ4Oeg8id/\noyCpt5Bau59k2YEoiYwv2yqyyhtGhzKfZcMGR2+9K7OlFI4qJ99rtx5yJPnOplaX\ntI4jHB4SpFPoVc8NqWi+jojhbVlmrAO7twiuLnVSjI0Xdq1ndZdThrzr24ogbkSE\nNW69P8v5AgMBAAECggEABu0j6jPnnkCTT2Wv+9/Dx7pw1JDl3sJLbCEs5EgqJm2p\nh+U0BKjNgR4ZSzYuOy1xczBmN/nZEP/EIZFvxFN5xqxFk27N9qk0rqv8fH0DP3Uw\nO3nR/+4pTMjQL33oAY0/YlrD7UQewHT6PvNjMtOboIQqCIPNe/kIJcT//FEkLlBm\nkYjtaP3PDW4f1/8bCVA6BHL6pjVCT69GR77AkJZGrjD8V52fy0+BBzwF+kPLAxUG\nH2INo4Dk9+7OZCj/yf2n/Y5XFxW3597YBxRrc7FY78EmilPTUFOIH+9QviBTy6+f\n7yPordcwqVN6x9YdcWfLXMCYbLBOSHe9MWWYkOVUBwKBgQDULyp4nl+hjuR2wVpg\nI7DoIyPQwSufs6vM5JfUoalQNNO3rJ3P5LPdWcsXi14dF//nc9cB7KUZyrMW9Hw2\n9g3AfF4tSQx5Yk2UHJbPLWHzNkmb6mIM9E4PJYndSRxrlfNe00DpLnLOoZTKzWOI\nu3G/7OHWYVMi6rSO5PDtIoSJPwKBgQDNaeLyLybUdskqDUoJQvch56YNCwvfEImF\nmpOxXKWUzpwMNnfTCZ6BC3Gf780rJWtZRxkQ7wPUJbwAaGJRw3I4GnGayJWAgr4y\nTRzUqka9yl/oSooXw7k+ijSIwxXekCw9AdNDCJ6GhhD0E4vsTrHZLDy8bQyXNWc7\nBq7p7cPkxwKBgGZ4iMhLo9+ABLGdWyoG0o6pOci9IXY07Qk8dF7J29zSRlTz1hrq\nVjrV/JDYS5E9X+bFONbDFFDKZYb2d26LkcSdy1WPa6jLYq/exq4zOpScaRwVK1ka\nOwBxnozxm/oRJsFqwHRcbDGCMztlyWXlMGAB5GcGBYJdWumPgxLikqM9AoGBAMBp\nmEE9s8S/RC4U5q4IQVBMGjoLh+I6Lmes5P31h9D9PCUgfFt9njDI1HV5fhkVYxns\nxGkdStvVQOas4LQwPPSaqKHRlGEdlyWtH/2BRuSPBgmkkPgzyXjwoscc3oZtTFMV\nO5yGHWBrgsPu71m6WVPR4U6rY2jciEc9Omk75AyPAoGBAL+NraRn95IkrPzr/08L\nSSfMKro7E8o7Il0TsYe26k2ycrDYGqoNXAVpvd6AUFWLQFcbDLkVRdtuy57flpUZ\nwap0fF4Mmttvopkm41neeoO7I0sdEnxwIY9cSdzWwhaAodj1rzsBtVwLvYF9GOJd\nWqQTmsH3UacEv8GminhtyJAo\n-----END PRIVATE KEY-----\n",
+  "client_email": "spanneraccesservice@august-strata-270720.iam.gserviceaccount.com",
+  "client_id": "117946988007414937705",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/spanneraccesservice%40august-strata-270720.iam.gserviceaccount.com"
+}
